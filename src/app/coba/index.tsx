@@ -4,7 +4,7 @@ import React from 'react'
 const CobaHomePage = () => {
   return (
     <div>
-      <h3>Homepage</h3>
+      <h3>Homepage mase</h3>
     </div>
   )
 }
