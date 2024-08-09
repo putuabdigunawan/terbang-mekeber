@@ -29,6 +29,7 @@ export default function Home() {
         </div>
       </div>
       {/* disable dulu button nya */}
+      {/* hapus dulu button nya */}
       <Button />
     </main>
   );
